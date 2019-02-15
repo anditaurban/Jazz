@@ -1,0 +1,155 @@
+.header {
+	text-align: center;
+	font-family: helvetica;
+	background-color: #eee;
+	z-index: -1;
+}
+.menu {text-align: center;
+background-color: #eee; margin: 10px;}
+body {
+	background: url(img/Newspapers.jpg) repeat fixed;
+}
+
+p {
+	padding: 15px 25px 0px 25px; text-align: justify;
+}
+
+h2 {padding: 15px 25px 0px 25px;}
+.gambar{
+	margin: 10px;
+	text-align: center;
+	display: block;
+}
+
+.gambar img{
+	border-radius: 500px;
+	width: 300px;
+	height: 300px;
+}
+
+img {
+	border-radius: 500px;
+	width: 500px;
+	height: 300px;
+}
+
+.img1 {
+	padding: 5px 0px 45px 0px;
+}
+.img2 {
+	padding: 0px 0px 45px 0px;
+}
+.img3 {
+	padding: 0px 0px 15px 0px;
+}
+.audio1 {padding: 120px 0px 200px 15px;
+
+}
+.audio2 {padding: 100px 0px 200px 15px;
+
+}
+.audio3 {padding: 100px 0px 100px 15px;
+
+}
+}
+.footer p{
+	text-align: center; clear: both;
+}
+.audio{
+	height: 1000px;
+}
+.article{
+	margin: 0px;
+	height: 1000px;
+	background-color: #eee;
+	text-align: justify;
+	border-radius: 20px;
+	background-size: cover;
+}
+.gambar {
+	height: 1000px;
+	background-color: black;
+	border-radius: 500px;
+}
+#MyCarousel img {
+}
+
+.item { overflow: auto; }
+.navbar-header {
+}
+
+.dropdown {
+	font-family: helvetica;
+	padding-top: 8px;
+	z-index: 999;
+}
+
+.Professionals {
+height: 300px;
+margin-top: 0px;
+padding: 5px 200px 0px 200px;
+background-color: #edeeef;
+border-radius: 500px;
+text-align: justify;}
+
+.Pro {padding-top: 0px; background-color: #eee;}
+
+.Pro h1 {
+	text-align: center;
+}
+
+
+.Professionals img { border-radius: 1000px; 
+	width: 400px; height: 300px;
+	float: left;
+	padding: 10px 20px 10px 10px;
+	}
+
+iframe {padding: 50px 0px 0px 250px;
+	width: 1200px;
+	height: 500px;}
+
+
+/*.menu ul { padding: 0;}
+*/
+/*.menu ul li {
+	display: inline-block;
+	position: relative;
+	width: 200px;
+	height: 40px;
+	background-color: black;
+	opacity: .8;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	margin-right: 2px;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	color: white;
+	display: block;
+	padding: 0px 15px 0px 15px;
+}
+
+ul .submenu {
+	z-index: 999;
+	position: absolute;
+}
+
+ul .submenu li {
+	display: block;
+}
+
+ul .submenu li a {
+	display: block;
+	padding: 5px 10px
+}
+
+.menu ul li:hover ul .submenu{
+	display: block;
+	background-color: #ccc;
+}
+
+.submenu li: hover {background-color: grey;}
+*/
